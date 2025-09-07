@@ -9,7 +9,7 @@
 import java.util.Arrays;  // Gigamit para makahimo og fixed nga lista
 import java.util.List;    // Import para magamit ang List collection
 
-public class Exercise1_Declarative {
+public class Exercise1_Luague_Declarative {
     public static void main(String[] args) {
         // Dataset nga naglangkob sa mga pangalan
         List<String> names = Arrays.asList("Anna", "Ben", "Carlo", "Diana", "Ella");
